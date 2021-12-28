@@ -1,5 +1,12 @@
 # Panel-Defect-Identification-using-Computer-Vision
 
+
+Google colab code link : https://colab.research.google.com/drive/1qffw1ztI5otaznY-GqQADWcchAuOPTjR?usp=sharing
+
+Google Drive Link of the Assignment and Resultant Video : 
+https://drive.google.com/drive/folders/1uAhb4r_lpovpGNu4Q-su7U_m2YBbpfEw?usp=sharing
+
+
 STEP 1 : Train-Test Split
 
 First thing I did is split the dataset into training and testing data. I chose first 7 videos for training data and the last one for testing data.
